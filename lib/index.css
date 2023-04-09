@@ -19,6 +19,14 @@ body {
     padding: 0;
     width: 100%;
 }
+.titulo{
+    color: rgb(44, 212, 103);
+    font-size: 35px;
+}
+span{
+    color: rgba(212, 44, 44, 1);
+    font-size: 35px;
+}
 
 h1,
 h3,

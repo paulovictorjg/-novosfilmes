@@ -17,10 +17,13 @@
       Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   }
   h1{
-    font-size: 5.5em;
+    font-size: 9vh;
     color: rgba(212, 44, 44, 1);
     padding-bottom: 3rem;
     margin-left: -80px;
+  }
+  h1,a{
+    text-decoration: none;
   }
   span{
     color:rgb(44, 212, 103)
